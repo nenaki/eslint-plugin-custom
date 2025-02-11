@@ -25,13 +25,13 @@ npm install your-username/eslint-plugin-custom
 Or using SSH:
 
 ```sh
-npm install git+ssh://git@github.com/your-username/eslint-plugin-custom.git
+npm install git+ssh://git@github.com/nenaki/eslint-plugin-custom.git
 ```
 
 #### Option 2: Clone and Install Locally
 
 ```sh
-git clone https://github.com/your-username/eslint-plugin-custom.git
+git clone https://github.com/nenaki/eslint-plugin-custom.git
 cd eslint-plugin-custom
 npm install
 ```
