@@ -16,10 +16,10 @@ Since this package is not published on NPM, you must install it directly from Gi
 
 #### Option 1: Install via GitHub
 
-If your repository is public or accessible, install it using:
+Install it using:
 
 ```sh
-npm install your-username/eslint-plugin-custom
+npm install nenaki/eslint-plugin-custom
 ```
 
 Or using SSH:
@@ -34,12 +34,6 @@ npm install git+ssh://git@github.com/nenaki/eslint-plugin-custom.git
 git clone https://github.com/nenaki/eslint-plugin-custom.git
 cd eslint-plugin-custom
 npm install
-```
-
-Then, in your ESLint project, install it as a local dependency:
-
-```sh
-npm install /path/to/eslint-plugin-custom-rules
 ```
 
 ## Usage
